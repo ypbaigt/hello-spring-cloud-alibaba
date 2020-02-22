@@ -1,0 +1,7 @@
+# Project exclude paths
+/hello-spring-cloud-alibaba-nacos-consumer/target/
+/hello-spring-cloud-alibaba-nacos-consumer-feign/target/
+/hello-spring-cloud-alibaba-nacos-provider/target/
+/hello-spring-cloud-alibaba-rocketmq-consumer/target/
+/hello-spring-cloud-alibaba-rocketmq-provider/target/
+/hello-spring-cloud-gateway/target/
